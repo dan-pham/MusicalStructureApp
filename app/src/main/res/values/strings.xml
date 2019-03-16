@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="song_details">Song Details</string>
+
+    <string name="sample_song_title">Let It Snow!</string>
+    <string name="sample_artist_name">Bing Crosby</string>
+    <string name="sample_album_name">Holiday</string>
+    <string name="list_play_button_description">Play Song</string>
+    <string name="detail_record_description">Record</string>
+    <string name="detail_previous_description">Previous</string>
+    <string name="detail_play_description">Play</string>
+    <string name="detail_next_description">Next</string>
+</resources>
